@@ -1,4 +1,4 @@
-# Introduction to Computer Networks — Study Notes
+# Introduction to Computer Networks/study-notes.md
 
 These notes provide a concise introduction to the topics covered in the accompanying teaching material. They are intended to support classroom learning and revision.
 
